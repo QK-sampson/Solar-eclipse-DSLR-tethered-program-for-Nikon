@@ -2,7 +2,7 @@
 #
 # Captures a series of images with different shutter speed in burst mode using Raspberry Pi3.
 # https://www.youtube.com/watch?v=BVfxZ-fDLLo
-#
+# http://img.gg/2EpkNYN
 # eclip.sh ##################
 # 可設定一組 (1張至最多 10 張) 不同快門速度的連拍, 並可輸入重複多少次此一組(排程)拍攝。
 #
